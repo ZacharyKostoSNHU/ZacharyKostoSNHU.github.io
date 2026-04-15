@@ -1,4 +1,6 @@
-# Zachary Kosto Computer Science ePortfolio
+# Zachary Kosto  
+## Computer Science ePortfolio
+
 
 ## Professional Self-Assessment
 
