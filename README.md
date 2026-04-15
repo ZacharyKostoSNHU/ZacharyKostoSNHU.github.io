@@ -1,4 +1,3 @@
-# Zachary Kosto  
 ## Computer Science ePortfolio
 
 
