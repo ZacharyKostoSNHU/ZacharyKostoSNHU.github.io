@@ -2,7 +2,7 @@
 
 
 ## Artifact
-Event Tracker Mobile Application  
+**Event Tracker Mobile Application**  
 Originally developed in Android Studio using Java during CS 360 Mobile Architecture and Programming.
 
 
