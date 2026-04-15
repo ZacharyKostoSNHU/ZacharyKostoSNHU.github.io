@@ -1,6 +1,8 @@
-# Zachary Kosto ePortfolio
+# Zachary Kosto Computer Science ePortfolio
 
 ## Professional Self-Assessment
+
+This portfolio highlights my growth, technical skills, and professional experience developed throughout the Computer Science program.
 
 Throughout my time in the Computer Science program at Southern New Hampshire University, I have developed both technical and professional skills that have prepared me to enter the field with confidence. Working through my coursework and completing my capstone project allowed me to not only strengthen my understanding of software development concepts, but also apply them in a way that reflects real-world expectations. By building and enhancing my Event Tracker application across software design, algorithms, and databases, I was able to take one project and continuously improve it, which helped me better understand how systems evolve and how different areas of computer science connect together. This process has helped shape my professional goals and reinforced my interest in working in either cybersecurity or data-focused roles as I continue building experience. One of the most valuable skills I developed throughout the program is collaboration. During my internships at Verizon Communications Inc., I worked with multiple security teams and regularly communicated research findings and technical insights. I presented a Flask-based dashboard I developed to stakeholders, explaining how it could improve detection and analysis workflows. These experiences helped me understand how collaboration goes beyond just working with other developers, and instead involves communicating clearly with different teams, including those with non-technical backgrounds. In both of my internships, I also presented my work to high-level stakeholders, which strengthened my ability to explain complex ideas in a way that is easy to understand. This directly aligns with the program outcome of designing and delivering professional-quality communication, as I learned how to adapt my communication style based on the audience. 
 
@@ -10,6 +12,8 @@ Developing a security mindset has been a key part of both my coursework and my p
 
 Overall, this program has helped me build a strong foundation in computer science while also preparing me for my professional career. What sets me apart is my combination of academic experience and real-world exposure through my internships, along with my focus on both cybersecurity and data. In the future, I plan to use my technical skills to support law enforcement and contribute to security-related efforts, while continuing to gain experience in data and cybersecurity roles. This ePortfolio represents not only what I have learned, but also what I am capable of doing as I move forward in my career. 
 
+---
+
 ## Enhancements
 
 - [Software Design and Engineering Enhancement](enhancement1.md)
@@ -17,4 +21,4 @@ Overall, this program has helped me build a strong foundation in computer scienc
 - [Databases Enhancement](enhancement3.md)
 
 ## Code Review
-- [Code Review](code-review.md)
+- [View Code Review](code-review.md)
