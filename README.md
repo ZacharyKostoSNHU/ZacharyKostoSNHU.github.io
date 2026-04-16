@@ -3,7 +3,7 @@
 
 ## Professional Self-Assessment
 
-This portfolio highlights my growth, technical skills, and professional experience developed throughout the Computer Science program.
+This portfolio highlights my growth, technical skills, and professional experience developed throughout the Computer Science program at Southern New Hampshire University.
 
 ### Overview
 Throughout my time in the Computer Science program at Southern New Hampshire University, I have developed both technical and professional skills that have prepared me to enter the field with confidence. Working through my coursework and completing my capstone project allowed me to not only strengthen my understanding of software development concepts, but also apply them in a way that reflects real-world expectations. By building and enhancing my Event Tracker application across software design, algorithms, and databases, I was able to take one project and continuously improve it, which helped me better understand how systems evolve and how different areas of computer science connect together. This process has helped shape my professional goals and reinforced my interest in working in either cybersecurity or data-focused roles as I continue building experience.
